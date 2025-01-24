@@ -40,7 +40,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/alamdari86/panel/master/instal
 To install your desired version, use following installation command. e.g., ver `v1.7.9`:
 
 ```
-VERSION=v1.7.9 && bash <(curl -Ls "https://raw.githubusercontent.com/alamdari86/panel/$VERSION/install.sh") $VERSION
+bash <(curl -Ls "https://raw.githubusercontent.com/alamdari86/panel/master/install.sh") v2.3.6
 ```
 
 ## SSL Certificate
